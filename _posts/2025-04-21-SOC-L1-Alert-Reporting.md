@@ -80,9 +80,9 @@ L1 analysts must write detailed reports, not just label alerts. These reports he
 > **Q: What flag did you receive after writing a good report using the Five Ws template?**  
 > **Ans - THM{nice_attempt_faking_microsoft_support}**
 
-<div class="alert alert-info" role="alert">
-  💡 <strong>Tip:</strong> When writing your alert report, always include clear timestamps and evidence (like file names, IPs, or URLs).
-</div>
+> When writing your alert report, always include clear timestamps and evidence (like file names, IPs, or URLs). 
+{: .prompt-tip }
+
 
 ## Task 4: Escalation Guide
 

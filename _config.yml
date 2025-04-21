@@ -19,7 +19,7 @@ title: Hui_0_07 # the main title
 tagline: # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  cybersecurity, ctf_writeups, tryhackme
+  Simple blog for sharing writeups and such
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

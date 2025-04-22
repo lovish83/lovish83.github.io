@@ -2,7 +2,7 @@
 title: 'TryHackMe: Custom Tooling Using Python'
 author: Hui_0_07
 categories: [TryHackMe]
-tags: [SOC, Alert Reporting, Escalation, Communication, L1 Analyst, L2 Analyst, Incident Response, SIEM, Cybersecurity]
+tags: [Red Teaming, Python, Custom Tools, Brute-Forcing, Web Security, SQLi, XSS, Exploit Development, Automation]
 render_with_liquid: false
 media_subpath: /images/Custom_Tooling_Using_Python/
 image:
